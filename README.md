@@ -1,4 +1,4 @@
-💫 About Me:<br>👋 Hi, I’m Enaba<br>👀 Passionate about Data Science, Machine Learning, and AI<br>🌱 Currently building cool AI and ML projects<br>💻 Check out my projects below!<br>📫 Feel free to reach out to me at enaba584@gmail.com<br>😄 Pronouns: she/her<br><br>
+#💫 About Me:<br>👋 Hi, I’m Enaba<br>👀 Passionate about Data Science, Machine Learning, and AI<br>🌱 Currently building cool AI and ML projects<br>💻 Check out my projects below!<br>📫 Feel free to reach out to me at enaba584@gmail.com<br>😄 Pronouns: she/her<br><br>
 
 
 ## 🌐 Socials:
